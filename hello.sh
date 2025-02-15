@@ -11,3 +11,4 @@ Trigger Test
 Final Email Test
 New Update for email check
 echo "Triggering Email Notification..."
+last test
